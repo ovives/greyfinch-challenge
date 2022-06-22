@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  padding: 1rem;
+  background-color: azure;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.App-grid-container {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.App-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 830px;
+  gap: 10px;
+  padding: 10px;
+  background-color: black;
+  border-radius: 5px;
+}

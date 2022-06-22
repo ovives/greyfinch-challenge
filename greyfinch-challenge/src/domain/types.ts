@@ -1,0 +1,1 @@
+export type AnimalsTag = 'cats' | 'dogs' | 'elephants' | 'lions' | 'monkeys';
